@@ -1,1 +1,16 @@
 These files need to be located on the new feed file server, they are bash or text files.
+
+This script uses a bunch of standing text files to insert an rss entry into 
+an RSS file. It was intially written to create an rss file of my linkedin
+pulse feed. 
+
+The program is 'addnewitem'
+
+In this case the output file is called linkedin.rss, it is versioned using 
+a version counter file called ctr.txt. linkedin.rss is hardcoded.
+
+The new snip must be held in item.txt, a standing interim version is held in
+items.xml. This contains the concatenated posts. They are then concatenated
+with head.xml and tail.xml into the new feed file. 
+
+fileage.py is incuded for when I finally write an age test on item.txt
