@@ -1,0 +1,6 @@
+<item>
+<title>On Knowledge Graphs</title>
+<link>https://www.linkedin.com/pulse/knowledge-graphs-david-levy/</link>
+<description>I attended a Capco/Semantic Web Company webinar, on Knowledge Graphs which provoked these thoughts, on how far we've come, new solutions to old problems and the social inhibitors to new technology adoption.</description>
+<pubDate>8 JUL 2020 14:00 +0100</pubDate>
+</item>
